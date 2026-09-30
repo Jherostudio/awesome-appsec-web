@@ -65,6 +65,7 @@
 - [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload) - Industry-standard toolkit for manual web application security testing and HTTP/S traffic manipulation.
 - [Nuclei](https://github.com/projectdiscovery/nuclei) - Extremely fast, template-driven vulnerability scanner powered by community-curated YAML rules.
 - [Schemathesis](https://github.com/schemathesis/schemathesis) - Property-based testing tool that automatically generates test cases from OpenAPI and GraphQL specifications.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform: an LLM orchestrates specialist agents to test web apps and APIs end to end and proves each finding with a real exploit.
 - [OWASP Amass](https://github.com/owasp-amass/amass) - Advanced tool for network mapping of attack surfaces and external asset discovery.
 
 ---
